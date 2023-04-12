@@ -9,4 +9,4 @@
 ### This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Credits
-### This game was created by [Your Name Here]. Special thanks to the List of Traditional Archery Sports article on Wikipedia for inspiration and reference.
+### This game was created by [Iffah Bindoloh]. Special thanks to the List of Traditional Archery Sports article on Wikipedia for inspiration and reference.
